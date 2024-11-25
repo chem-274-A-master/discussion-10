@@ -311,3 +311,8 @@ where $\lambda_i$ is the corresponding eigenvalue.
 #### Comparison
 
 Compute the vibrational frequencies for formaldehyde and compare them with the spectrum [here](https://webbook.nist.gov/cgi/cbook.cgi?ID=C50000&Type=IR-SPEC&Index=0#IR-SPEC). How well does it compare?
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ tex2jax: {inlineMath: [['$', '$']]}, messageStyle: "none" });
+</script>
