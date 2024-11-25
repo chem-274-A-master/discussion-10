@@ -33,7 +33,7 @@ Matrices have two indices, here row $i$ and column $j$
 - **Addition**: Add two matrices element-wise.
 
 $$
-  (\mathbf{a} + \mathbf{b})_{ij} = a_{ij}b_{ij}
+(\mathbf{a} + \mathbf{b})_{ij} = a_{ij}b_{ij}
 $$
 
 - **Multiplication**: Multiplies rows of the left matrix with columns of the right. Can think of each
@@ -74,13 +74,13 @@ $$
   or, more visually, a diagonal matrix
 
 $$
-    D =
-    \begin{bmatrix}
-    d_{11} & 0 & 0 & 0 \\
-    0 & d_{22} & 0 & 0 \\
-    0 & 0 & d_{33} & 0 \\
-    0 & 0 & 0 & d_{44}
-    \end{bmatrix}
+D =
+\begin{bmatrix}
+d_{11} & 0 & 0 & 0 \\
+0 & d_{22} & 0 & 0 \\
+0 & 0 & d_{33} & 0 \\
+0 & 0 & 0 & d_{44}
+\end{bmatrix}
 $$
 
 and a non-diagonal matrix
