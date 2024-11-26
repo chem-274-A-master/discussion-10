@@ -135,7 +135,7 @@ A very important operation that is done on matrices is diagonalizing them. That 
 matrix into a diagonal matrix and other matrices.
 
 $$
-  A = \mathbf{P} \mathbf{D} \mathbf{P}^{-1}
+  \mathbf{A} = \mathbf{P} \mathbf{D} \mathbf{P}^{-1}
 $$
 
 where $\mathbf{P}^{-1}$ is the inverse of matrix $\mathbf{P}$ (that is, $\mathbf{PP}^{-1} = \mathbf{I}$, the
